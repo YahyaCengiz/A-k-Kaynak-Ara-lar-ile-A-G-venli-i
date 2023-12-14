@@ -1,0 +1,78 @@
+Güncel Ağ Güvenliği Sorunları ve Çözümleri
+
+Günümüzde internet, yaşantımızın her alanında ihtiyaç duyduğumuz bir teknoloji olarak öne çıkıyor.
+Bilgiye erişimi kolaylaştıran, dünyanın dört bir yanındaki insanları birbirine bağlayan, yalnızca bireylerin
+değil şirketlerin ve devlet kurumlarının da işini kolaylaştıran internet, beraberinde pek çok risk de getiriyor.
+
+İnternetin yaygın kullanımı, siber güvenlik tehditlerini her geçen gün artırmakta. Bilgi hırsızlığı, kimlik avı, 
+kötü amaçlı yazılımlar ve diğer çeşitli saldırılar, bireylerin ve kurumların karşılaştığı riskler arasında yer alıyor. 
+Özellikle kişisel bilgilerin çalınması, finansal zararlara yol açabilirken, kurumlar içinse itibar kaybı ve operasyonel 
+sorunlara neden olabiliyor. İnternet üzerindeki tehditlerin artmasına bağlı olarak siber güvenlik çözümlerine duyulan 
+ihtiyaç da orantılı olarak artıyor.
+
+Günümüzde en çok karşılaşılan Ağ Güvenliği sorunlarından birkaçına beraber göz atalım.
+
+DDoS Saldırıları
+DDoS saldırıları, bir hedef sistem ya da ağa aşırı miktarda trafik gönderilerek kaynakların tükenmesine neden olan 
+saldırı türleridir. Bu saldırılar birçok farklı kaynaktan, genellikle bot ağları veya zombi bilgisayarlar 
+aracılığıyla düzenlenir. Saldırının amacı, hedef sistem ya da ağın normal çalışma kapasitesini aşması ve bu nedenle 
+hedefin normal kullanıcılara hizmet verme yeteneğini kaybetmesidir.
+
+DDoS saldırıları sonucu hedef sistem ya da ağ, aşırı trafik nedeniyle normal hizmet vermekte başarısız olabilir. Buna 
+bağlı olarak saldırı sırasında güvenlik önlemleri zayıflayabilir ve hassas verilere erişim sağlanabilir. Verilerin
+çalınması saldırıya uğrayan kurum için ciddi itibar kayıpları ve maddi kayba yol açabilir.
+
+Peki DDoS saldırılarından korunmak için ne yapılabilir? 
+Ağ trafiğini sürekli olarak izleyen ve anlık olarak analiz eden bir güvenlik sistemine sahip olmak ve normal dışı
+davranışları tespit eden otomasyon araçları kullanmak, saldırıdan haberdar olmak ve karşılık verebilmek için en mantıklı çözüm yoludur. Ayrıca güçlü bir firewall kullanmak da zararlı trafiği engelleme noktasında işe yarayabilir. Bant genişliğinin artırılması, yedekli sunucular ve ağ altyapıları kullanmak, ağ trafiğini eşit dağıtarak tek bir kaynağa
+yüklenmesini engellemek de DDoS saldırılarına karşı alınabilecek önlemler arasında.
+
+Zararlı Yazılımlar ve Ransomware
+Zararlı yazılımlar genel olarak bilgisayar sistemlerine, ağlara veya kullanıcı verilerine zarar veren kötü amaçlı 
+yazılımlardır. Zararlı yazılımların bir alt başlığı olan ransomware'lar ise verileri şifreleyerek kullanıcıdan fidye 
+isteyen yazılımlardır.Şifreleme işlemi genellikle karmaşık algoritmalar kullanılarak gerçekleştirilir ve mağdur kullanıcıya şifre çözme anahtarını elde etmek için belirli bir miktarda para ödemesi gerektiği bildirilir.
+Bu tür saldırılar genellikle Bitcoin veya başka kripto paralarla ödeme yapmayı zorunlu kılar. Bu, ödemelerin izlenmesini zorlaştırır ve saldırganın kimliğini gizlemesine yardımcı olur. Fidye miktarı genellikle kurbanın önemli dosyalarının veya verilerinin değerine göre belirlenir.
+
+En bilinen ransomware'lardan biri olan Lockbit kullanılarak gerçekleştirilen saldırılar, 2019'dan bugüne içlerinde ABD, Çin, Hindistan, Endonezya ve Ukrayna gibi ülkelerin de bulunduğu pek çok kuruluşu hedef aldı.
+
+Ransomware ve diğer zararlı yazılımlardan korunmanın en etkili yöntemlerinden biri bilinmeyen kaynaklardan gelen dosyaları açmamak, güvenli olup olmadığı bilinmeyen linklere tıklamamak ve e-posta eklerini dikkatlice kontrol etmektir. Phishing saldırıları ile sisteminize zararlı yazılım yüklemeye çalışan saldırganların bilincinde olmak, bu tuzağa düşmemek için en önemli etkendir. Ayrıca güvenlik yazılımlarını güncel tutmak ve güçlü bir antivirüs programı kullanmak, veri yedeklemelerini düzenli olarak yapmak ve  güvenli bir ortamda verileri depolamak, çift faktörlü kimlik doğrulama kullanmak, güçlü ve tekrar etmeyen şifreler kullanmak da zararlı yazılımlara karşı alınabilecek önlemlerdendir.
+
+ 
+IoT Cihaz Güvenliği
+Günümüzde, Internet of Things (IoT) cihazları hayatımızın birçok alanında kullanılmaktadır. Ancak bu cihazların yaygınlaşması, beraberinde ciddi güvenlik sorunlarını da getirmiştir. IoT cihazları, evlerimizden endüstriyel tesislere kadar birçok alanda bulunmaktadır ve bu cihazların güvenliği, kişisel gizlilikten toplu güvenliğe kadar geniş bir yelpazede etkiler. Iot Cihazları ile ilgili başlıca güvenlik sorunlarını inceleyelim.
+
+
+Zayıf Şifreleme ve Kimlik Doğrulama
+Birçok IoT cihazı, güçsüz şifreleme ve yetersiz kimlik doğrulama yöntemleri kullanır. Bu, cihazların kötü niyetli kişiler tarafından ele geçirilmesine ve kötü amaçlı kullanılmasına neden olabilir. IoT cihazları, güçlü şifreleme algoritmaları ve etkili kimlik doğrulama yöntemleri kullanmalıdır. Üreticiler, varsayılan şifreleri zorunlu olarak değiştirmeyi ve güçlü parola politikalarını benimsemeyi teşvik etmelidir.
+
+Güncelleme Eksikliği
+Birçok IoT cihazı, üretildikten sonra güvenlik güncellemelerini almamakta veya kullanıcıların güncellemeleri uygulama konusunda zorluk yaşamasına neden olmaktadır. Bu durum, cihazların güncel güvenlik tehditlerine karşı savunmasız kalmasına yol açar. Bu durum sonucunda oluşabilecek güvenlik zaafiyetlerine karşı üreticiler, cihazlarını düzenli güvenlik güncellemeleriyle desteklemelidir. Kullanıcıları, güncellemeleri uygulamaya teşvik etmek için kullanıcı dostu araçlar ve bilgilendirme stratejileri geliştirmelidir.
+
+Zayıf Ağ Güvenliği
+IoT cihazları genellikle düşük güvenlik standartlarına sahip ağlara bağlanır. Bu da cihazların ağ üzerinden saldırılara daha açık hale gelmesine neden olabilir. IoT cihazları, güvenli ağ protokollerini ve standartlarını benimsemelidir. Ağ trafiğini şifreleme ve cihazlar arasında güvenli iletişimi sağlama önlemleri alınmalıdır.
+
+Veri Gizliliği Sorunları
+Birçok IoT cihazı, kullanıcı verilerini toplar ve depolar. Ancak bu verilerin güvenliği sıklıkla ihmal edilir, ve kötü niyetli kişiler tarafından ele geçirilebilir. Buna karşı üreticiler, kullanıcı verilerini toplarken şeffaf olmalı ve güçlü veri gizliliği politikalarını benimsemelidir. Kullanıcıların hangi verilerin toplandığı konusunda bilgilendirilmeleri ve bu verilere erişimi kontrol etmeleri sağlanmalıdır.
+Zero-Day Saldırıları
+Zero-day saldırıları, henüz yazılım geliştiricileri tarafından keşfedilmemiş ve düzeltilmemiş güvenlik açıklarını hedef alan saldırılardır. Bu tür saldırılarda, saldırganlar genellikle güvenlik açığını keşfettikten hemen sonra saldırı gerçekleştirirler. Saldırının gerçekleştiği gün, savunma mekanizmaları ve güvenlik yazılımları bu açığı tespit edemez, bu nedenle "zero-day" terimi kullanılır. 
+
+Zero-Day saldırıları yüksek derecede tehlike ihtiva etmesinin yanı sıra geliştiricinin sorunu çözmesi için “sıfır gününün” olması bu saldırıları daha da etkili hale getirmektedir. Örnek olarak 2020 yılında video konferans platformu  Zoom, yaşadığı zero-day tehdidi sonucu saldırganlar Windows'un eski bir sürümünü kullanan kullanıcıların bilgisayarlarına uzaktan erişebilmeyi başarmıştı. Hedefin bir sistem yöneticisi olması durumunda, bilgisayar korsanı kullanıcının makinesini tamamen ele geçirip tüm dosyalarına erişebiliyordu. 
+
+Zero-Day saldırıları veri sızıntısı, hizmet kesintisi, gizlilik ihlalleri, maddi kayıplar gibi pek çok zarara yol açabilir. Günümüzde en kritik ağ güvenliği sorunlarından biri olan zero-day saldırılarına karşı korunma yöntemlerine göz atalım.
+Güvenlik Yazılımları ve Güncellemeler 
+Güvenlik yazılımları düzenli olarak güncellenmeli ve sistemdeki tüm yazılımlar en son güvenlik yamalarıyla güncel tutulmalıdır. Bunun nedeni, yeni sürümlerde yeni tanımlanan güvenlik açıklarını kapsayacak güvenlik yamalarının sunulmasıdır. Güncel kalmak daha güvende olmanızı sağlar. 
+
+
+Eğitim ve Farkındalık
+Kullanıcılar, potansiyel zararlı içerikler konusunda eğitilmeli ve şüpheli bağlantılardan kaçınılmalıdır. Pek çok sıfır gün saldırısı insan hatalarından yararlanır. Çalışanlara ve kullanıcılara iyi güvenlik alışkanlıkları kazandırmak, çevrimiçi ortamda güvende kalmalarına ve kuruluşları sıfır gün güvenlik açıklarından ve diğer dijital tehditlerden korumalarına yardımcı olur.
+Gelişmiş Güvenlik Çözümleri
+İleri düzey güvenlik çözümleri, anomali tespiti ve saldırı tespiti gibi özelliklere sahip olmalıdır. Güvenlik duvarları, sisteminizi sıfır gün tehditlerine karşı korumada önemli bir rol oynar. Güvenlik duvarını sadece gerekli işlemlere izin verecek şekilde yapılandırarak maksimum koruma elde edebilirsiniz. 
+Sürekli İzleme ve Analiz 
+Zero-day saldırılarına karşı etkili bir savunma stratejisi, sürekli izleme ve analiz süreçlerini içermelidir. Bu önlem, ağ trafiğini, sistem günlüklerini ve diğer güvenlik olaylarını sürekli olarak izleme pratiğini ifade eder. Sistem ve ağlar, sürekli olarak izlenmeli ve normalden sapmalar tespit edilmelidir. Anomali tespiti, normal işleyişle uyumsuz davranışları belirleyerek, olası saldırı işaretlerini erken aşamada fark etmeyi amaçlar.
+Kapanış
+Günümüzde, ağ güvenliği sadece bir uzmanlık alanı değil, hepimizin sorumluluğundadır. Bilinçli kullanıcılar olarak, günlük dijital alışkanlıklarımızda dikkatli olmak ve güvenlik önlemlerine riayet etmek, ilk savunma hattını oluşturur. Şifrelerimizi güçlü tutmak, güncel yazılımları kullanmak ve güvenlik politikalarına uymak, bu savunmanın temel taşlarıdır.
+Güvenli bir dijital ortam oluşturmanın yanı sıra, organizasyonlar olarak da sistemlerimizi ve ağlarımızı sürekli güncel tutmalıyız. Zararlı yazılımlara karşı düzenli taramalar yapmak, zafiyet yönetimini etkin bir şekilde uygulamak ve ağ aktivitelerini izlemek, güvenlik duvarlarımızı güçlendirir.
+Sonuç olarak, ağ güvenliği, her birimizin ve kurumun ortak sorumluluğudur. Bu konuda bilinçli adımlar atmak ve etkili çözümleri uygulamak, siber tehditlere karşı bize avantaj sağlar. Unutmayalım ki, güvenlik bir süreçtir ve bu süreçte her adım, dijital güvenliğimizi güçlendiren bir adımdır.
+Yahya İlhan Cengiz 414805 
+Karadeniz Teknik Üniversitesi
+
